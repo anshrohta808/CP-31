@@ -1,0 +1,1 @@
+{"name":"Local: game","url":"x:\\DSA+ALGO+cpp\\Codeforces\\800\\game.cpp","tests":[{"id":1783012195483,"input":"6\n1\n3\n5\n100\n999\n1000","output":"First\nSecond\nFirst\nFirst\nSecond\nFirst"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"x:\\DSA+ALGO+cpp\\Codeforces\\800\\game.cpp","group":"local","local":true}
